@@ -32,5 +32,8 @@
     <ClCompile Include="lianbiao.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="存在重复.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
