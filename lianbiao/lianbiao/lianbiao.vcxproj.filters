@@ -35,5 +35,8 @@
     <ClCompile Include="存在重复.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="字母异位词-考察字符加减.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
