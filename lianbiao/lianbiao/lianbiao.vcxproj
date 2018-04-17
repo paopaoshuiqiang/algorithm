@@ -88,8 +88,10 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="二叉树后续非递归.cpp" />
     <ClCompile Include="字母异位词-考察字符加减.cpp" />
     <ClCompile Include="存在重复.cpp" />
+    <ClCompile Include="最小间距.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

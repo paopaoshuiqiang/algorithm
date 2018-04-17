@@ -38,5 +38,11 @@
     <ClCompile Include="字母异位词-考察字符加减.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最小间距.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树后续非递归.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

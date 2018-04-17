@@ -1,16 +1,18 @@
-﻿生成启动时间为 2018/4/3 12:38:42。
+﻿生成启动时间为 2018/4/17 17:07:27。
      1>项目“D:\prosoft\study\cpp\algorithm\algorithm\lianbiao\lianbiao\lianbiao.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\prosoft\cpp\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\lianbiao.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt lianbiao.cpp
-         lianbiao.cpp
+         D:\prosoft\cpp\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\lianbiao.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "二叉树后续非递归.cpp"
+         二叉树后续非递归.cpp
        Link:
          D:\prosoft\cpp\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\prosoft\study\cpp\algorithm\algorithm\lianbiao\Debug\lianbiao.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\prosoft\study\cpp\algorithm\algorithm\lianbiao\Debug\lianbiao.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\prosoft\study\cpp\algorithm\algorithm\lianbiao\Debug\lianbiao.lib" /MACHINE:X86 Debug\lianbiao.obj
          Debug\stdafx.obj
+         "Debug\二叉树后续非递归.obj"
          "Debug\字母异位词-考察字符加减.obj"
          "Debug\存在重复.obj"
+         "Debug\最小间距.obj"
          lianbiao.vcxproj -> D:\prosoft\study\cpp\algorithm\algorithm\lianbiao\Debug\lianbiao.exe
      1>已完成生成项目“D:\prosoft\study\cpp\algorithm\algorithm\lianbiao\lianbiao\lianbiao.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.43
+已用时间 00:00:00.92
